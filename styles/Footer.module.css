@@ -1,0 +1,18 @@
+.footer {
+  background-color: skyblue;
+  height: 6vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+}
+
+.footer h2 {
+  color: #fff;
+  font-size: 28px;
+}
+
+.footer span {
+  color: red;
+}
